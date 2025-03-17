@@ -1,5 +1,8 @@
-## Hello there 👋
+### Hello 👋
 
-This presentation is in progress 🚧. I'm currently working on creating my freelance status.
+I'm a Machine Learnign (ML)/Python & Full Stack Developer.
 
-✉️ How to reach me: Pierre-AlexandreBroux@live.fr
+## Projects
+
+- [KeePassXC Raycast extension](https://www.raycast.com/pabroux/keepassxc): An open-source TypeScript, React & Node.js extension for Raycast used by 2,500 users;
+- [S4D](https://pypi.org/project/s4d/): An open-source Python AI/machine learning toolkit dedicated to speaker diarization.
