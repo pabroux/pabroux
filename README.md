@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a Machine Learnign (ML)/Python & Full Stack Developer.
+I'm a Machine Learning (ML)/Python & Full Stack Developer.
 
 ## Projects
 
