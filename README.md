@@ -11,4 +11,18 @@ I'm a Machine Learning (ML)/Python & Full Stack Developer.
 
 ## Where to find me
 
-[<img alt="Personal Page" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/website.svg" width="40">](https://pabroux.com) [<img alt="LinkedIn" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/linkedin.svg" width="40">](https://linkedin.com/in/pabroux) [<img alt="Raycast" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/raycast.svg" width="40">](Raycast)
+<a href="https://pabroux.com" title="Personal Page">
+  <picture>
+    <img alt="Personal Page" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/website.svg" width="40">
+  </picture>
+</a>
+<a href="https://linkedin.com/in/pabroux" title="LinkedIn">
+  <picture>
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/linkedin.svg" width="40">
+  </picture>
+</a>
+<a href="https://raycast.com/pabroux" title="Raycast">
+  <picture>
+    <img alt="Raycast" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/raycast.svg" width="40">
+  </picture>
+</a>
