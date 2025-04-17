@@ -17,11 +17,13 @@ I'm a Machine Learning (ML)/Python & Full Stack Developer.
     <img alt="Personal Page" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/website.svg" width="40">
   </picture>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/pabroux" title="LinkedIn">
   <picture>
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/linkedin.svg" width="40">
   </picture>
 </a>
+&nbsp;
 <a href="https://raycast.com/pabroux" title="Raycast">
   <picture>
     <img alt="Raycast" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/raycast.svg" width="40">
