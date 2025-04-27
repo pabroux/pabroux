@@ -12,7 +12,7 @@ I'm a Machine Learning (ML)/Python & Full Stack Developer.
 
 ## Where to find me
 
-<a href="https://pabroux.com" title="Bento">
+<a href="https://bento.me/pabroux" title="Bento">
   <picture>
     <img alt="Bento" src="https://cdn.simpleicons.org/bento" width="20">
   </picture>
@@ -24,7 +24,7 @@ I'm a Machine Learning (ML)/Python & Full Stack Developer.
   </picture>
 </a>
 &nbsp;
-<a href="https://raycast.com/pabroux" title="Standard Resume">
+<a href="https://standardresume.co/r/pabroux" title="Standard Resume">
   <picture>
     <img alt="Standard Resume" src="https://cdn.simpleicons.org/standardresume" width="20">
   </picture>
