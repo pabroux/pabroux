@@ -12,20 +12,26 @@ I'm a Machine Learning (ML)/Python & Full Stack Developer.
 
 ## Where to find me
 
-<a href="https://pabroux.com" title="Personal Page">
+<a href="https://pabroux.com" title="Bento">
   <picture>
-    <img alt="Personal Page" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/website.svg" width="40">
+    <img alt="Bento" src="https://cdn.simpleicons.org/bento" width="20">
   </picture>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/pabroux" title="LinkedIn">
   <picture>
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/linkedin.svg" width="40">
+    <img alt="LinkedIn" src="https://brands.deno.dev/linkedin" width="20">
+  </picture>
+</a>
+&nbsp;
+<a href="https://raycast.com/pabroux" title="Standard Resume">
+  <picture>
+    <img alt="Standard Resume" src="https://cdn.simpleicons.org/standardresume" width="20">
   </picture>
 </a>
 &nbsp;
 <a href="https://raycast.com/pabroux" title="Raycast">
   <picture>
-    <img alt="Raycast" src="https://raw.githubusercontent.com/pabroux/pabroux/master/assets/raycast.svg" width="40">
+    <img alt="Raycast" src="https://cdn.simpleicons.org/raycast" width="20">
   </picture>
 </a>
