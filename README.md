@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a freelance ML Engineer & a Full Stack Developer.
+I'm a freelance ML Engineer & Full Stack Developer.
 
 
 ### Projects
