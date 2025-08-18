@@ -16,10 +16,4 @@ I'm a freelance Machine Learning Engineer.
 
 ### Where to find me
 
-<a href="https://bento.me/pabroux" title="Bento"><img alt="Bento" src="https://cdn.simpleicons.org/bento" width="20"></a>
-&nbsp;
-<a href="https://linkedin.com/in/pabroux" title="LinkedIn"><img alt="LinkedIn" src="https://brands.deno.dev/linkedin" width="20"></a>
-&nbsp;
-<a href="https://standardresume.co/r/pabroux" title="Standard Resume"><img alt="Standard Resume" src="https://cdn.simpleicons.org/standardresume" width="20"></a>
-&nbsp;
-<a href="https://raycast.com/pabroux" title="Raycast"><img alt="Raycast" src="https://cdn.simpleicons.org/raycast" width="20"></a>
+[<img alt="Bento" src="https://cdn.simpleicons.org/bento" width="20">](https://bento.me/pabroux) &nbsp; [<img alt="LinkedIn" src="https://brands.deno.dev/linkedin" width="20">](https://linkedin.com/in/pabroux) &nbsp; [<img alt="Standard Resume" src="https://cdn.simpleicons.org/standardresume" width="20">](https://standardresume.co/r/pabroux) &nbsp; [<img alt="Raycast" src="https://cdn.simpleicons.org/raycast" width="20">](Raycast)
