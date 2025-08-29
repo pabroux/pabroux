@@ -16,9 +16,4 @@ I'm a freelance Machine Learning Engineer.
 
 ### Where to find me
 
-[<img alt="Bento" src="https://cdn.simpleicons.org/bento" width="20">](https://bento.me/pabroux) &nbsp;
-[<img alt="LinkedIn" src="https://brands.deno.dev/linkedin" width="20">](https://linkedin.com/in/pabroux) &nbsp;
-[<img alt="Standard Resume" src="https://cdn.simpleicons.org/standardresume" width="20">](https://standardresume.co/r/pabroux) &nbsp;
-[<img alt="Raycast" src="https://cdn.simpleicons.org/raycast" width="20">](https://www.raycast.com/pabroux) &nbsp;
-[<img alt="LeetCode" src="https://cdn.simpleicons.org/leetcode" width="20">](https://leetcode.com/u/pabroux)
-
+[<img alt="Bento" src="https://cdn.simpleicons.org/bento" width="20">](https://bento.me/pabroux) &nbsp; [<img alt="LinkedIn" src="https://brands.deno.dev/linkedin" width="20">](https://linkedin.com/in/pabroux) &nbsp; [<img alt="Standard Resume" src="https://cdn.simpleicons.org/standardresume" width="20">](https://standardresume.co/r/pabroux) &nbsp; [<img alt="Raycast" src="https://cdn.simpleicons.org/raycast" width="20">](https://www.raycast.com/pabroux) &nbsp; [<img alt="LeetCode" src="https://cdn.simpleicons.org/leetcode" width="20">](https://leetcode.com/u/pabroux)
