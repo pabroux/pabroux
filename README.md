@@ -4,9 +4,10 @@ I'm a freelance AI/ML Engineer.
 
 ### Projects
 
-#### Artificial intelligence
+#### AI
 - [LangChain LangGraph crash course](https://github.com/pabroux/langchain-langgraph-crash-course): A crash course to master LangChain and LangGraph from basics to advanced workflows like RAG, intelligent web-search agents and text classifiers.
 - [LLM Engineer's Handbook](https://github.com/pabroux/llm-engineers-handbook): A Pixi-based adaptation of the official repository LLM Engineer's Handbook by Paul Iusztin and Maxime Labonne.
+- [Retro-Doc](https://github.com/informatique-cdc/retro-doc): An AI-assisted reverse documentation tool for legacy or poorly documented codebases to improve comprehension and maintainability.
 - [S4D](https://pypi.org/project/s4d): An open-source Python machine learning toolkit dedicated to speaker diarization.
 
 #### Others
