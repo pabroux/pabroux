@@ -11,7 +11,7 @@ I'm a freelance AI/ML Engineer.
 - [S4D](https://pypi.org/project/s4d): An open-source Python machine learning toolkit dedicated to speaker diarization.
 
 #### Others
-- [KeePassXC Raycast extension](https://www.raycast.com/pabroux/keepassxc): An open-source TypeScript, React and Node.js extension for Raycast dedicated to KeePassXC and used by over 4,000 users.
+- [KeePassXC Raycast extension](https://www.raycast.com/pabroux/keepassxc): An open-source TypeScript, React and Node.js extension for Raycast dedicated to KeePassXC and used by over 4,500 users.
 - [unvX](https://github.com/pabroux/unvX): A Home Manager configuration that uses Nix flakes to install software and manage dotfiles, using symlinks for immediate feedback on changes.
 
 ### Where to find me
